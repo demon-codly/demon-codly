@@ -1,102 +1,157 @@
-<!--Header Banner-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,9,14&height=250&section=header&text=Sushanth%20Kumar%20Thakur&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=55" width="100%"/>
+
+<!-- 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUSHANTH%20KUMAR%20THAKUR&fontSize=70&color=gradient&customColorList=0,2,2,5,30&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18" />
+
 </div>
 
-<!--Socials-->
+<!-- Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
+</div>
+
+<!-- Professional Contact Links -->
 <div align="center">
   <a href="https://linkedin.com/in/sushanth-thakur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sushanth.athakur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="https://github.com/demon-codly" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a results-driven **Full-Stack Developer** with deep expertise in the **C#/.NET ecosystem** and a passion for building robust, scalable applications. My experience spans the entire software development lifecycle, from architecting solutions to deploying on cloud platforms like **Microsoft Azure**. I thrive in **Agile** environments and am committed to writing clean, maintainable code while leveraging modern **DevOps** practices to ensure seamless delivery.
-
--   🔭 **Currently working on:** Architecting microservices and implementing CI/CD pipelines.
--   🌱 **Exploring:** Advanced cloud patterns and serverless computing.
--   💬 **Ask me about:** .NET, C#, React, Azure, Docker, or anything related to software architecture.
--   ⚡ **Fun fact:** I can debug code in my dreams (sometimes it even works!).
-
----
-
-### 🚀 My Tech Arsenal
-
 <table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,sql" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,nextjs,wpf,maui" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,vscode,visualstudio,jenkins,terraform" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,pandas,tableau" />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+
+### 💼 Professional Summary
+
+**Senior Full-Stack Developer** with **5+ years** of experience architecting and developing enterprise-grade applications. Specialized in **C#/.NET ecosystem**, **cloud technologies**, and **DevOps practices**. 
+
+**Core Expertise:**
+- 🏗️ **Architecture Design:** Microservices, Domain-Driven Design, CQRS
+- ☁️ **Cloud Platforms:** Microsoft Azure, AWS, Container Orchestration  
+- 🔄 **DevOps:** CI/CD Pipelines, Infrastructure as Code, Monitoring
+- 📊 **Data Engineering:** ETL Pipelines, Business Intelligence, Analytics
+- 🎯 **Leadership:** Technical mentoring, code reviews, project management
+
+</td>
+<td width="40%" valign="top">
+
+### 🎯 Quick Stats
+const sushanth = {
+location: "India 🇮🇳",
+experience: "5+ years",
+focus: ["Enterprise Solutions", "Cloud Architecture"],
+currentRole: "Senior Full-Stack Developer",
+certifications: ["Azure Solutions Architect"],
+languages: ["C#", "JavaScript", "Python", "Java"],
+databases: ["SQL Server", "MongoDB", "Redis"],
+cloud: ["Azure", "Docker", "Kubernetes"]
+};
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 🛠️ Technology Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=demon-codly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-codly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=demon-codly&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-    </td>
-  </tr>
+<div align="center">
+
+#### Programming Languages & Core Technologies
+<img src="https://skillicons.dev/icons?i=cs,java,python,javascript,typescript,html,css,sass&theme=dark" />
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,nextjs,angular,vue&theme=dark" />
+
+#### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,terraform,github&theme=dark" />
+
+#### Databases & Tools
+<img src="https://skillicons.dev/icons?i=sqlserver,mongodb,postgresql,redis,git,vscode,visualstudio&theme=dark" />
+
+</div>
+
+---
+
+### 📈 GitHub Performance Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=demon-codly&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-codly&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+</td>
+</tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon-codly&theme=tokyonight&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=demon-codly&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" width="60%" />
+
 </div>
 
 ---
 
-### 🏆 Trophies & Achievements
+### 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demon-codly&theme=tokyonight&no-frame=true&column=-1&row=1&margin-w=20&margin-h=20" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=demon-codly&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 ---
 
-### 🐍 My Contribution Snake
+### 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/demon-codly/demon-codly/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon-codly&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
-<!-- WakaTime Stats (Optional but highly recommended) -->
-<!-- You need to set up a WakaTime account and a GitHub secret for this to work -->
-<!--
-### 🕒 My Coding Activity
+---
 
-<a href="https://wakatime.com/@demon-codly">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=demon-codly&theme=tokyonight&hide_border=true&layout=compact" />
-</a>
--->
+### 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/demon-codly/demon-codly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 💡 Recent Projects & Highlights
+
+<div align="center">
+
+[![Survey Form](https://github-readme-stats.vercel.app/api/pin/?username=demon-codly&repo=Survey-Form&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/demon-codly/Survey-Form)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+
+**I'm always interested in:**
+- 🚀 Challenging projects and innovative solutions
+- 🌱 Learning new technologies and best practices  
+- 👥 Collaborating with talented developers
+- 💡 Contributing to open-source projects
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+
+**⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
