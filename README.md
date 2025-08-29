@@ -4,23 +4,43 @@
 -->
 
 <!-- Hero / Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1800&color=7B2BFF&center=true&vCenter=true&width=880&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+Sushanth+Kumar+Thakur;Software+Developer+|+C%23+.NET+|+Full-Stack+Developer" alt="Typing SVG"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" alt="wave" style="vertical-align: middle"/>
-  <strong>Software Developer • B.Tech (AI & Data Science) • Full-stack & Cross-platform</strong>
-</p>
+<!-- Fixed 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUSHANTH%20KUMAR%20THAKUR&fontSize=50&color=gradient&customColorList=0,2,2,5,30&stroke=000000&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=%20Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=16&fontColor=000000&descColor=1a1a1a" />
+<!-- Fixed Animated Typing Effect with more height -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=1a1a1a&center=true&vCenter=true&multiline=true&width=800&height=140&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
+</div>
 
 ---
 
-## 👨‍💻 About Me
-> B.Tech graduate (AI & Data Science). Experienced building full-stack applications and cross-platform apps using C#, .NET, React, Node.js and mobile using .NET MAUI. I build maintainable, well-tested products and enjoy solving complex problems.
+### 🚀 About Me
+A passionate Full-Stack Developer and certified .NET professional with a proven track record of designing, developing, and deploying high-quality, scalable applications. My expertise spans the entire software development lifecycle, from initial concept and architecture to cloud deployment and CI/CD automation. I thrive on solving complex problems and am dedicated to writing clean, efficient, and maintainable code.
+🔭 **Currently working on:** Architecting microservices and implementing CI/CD pipelines.
+🌱 **Exploring:** Advanced cloud patterns and serverless computing.
+💬 **Ask me about:** .NET, C#, React, Azure, Docker, or anything related to software architecture.
+⚡ **Fun fact:** I can debug code in my dreams (sometimes it even works!).
 
-**Contact**
-- 📧 sushanth.athakur@gmail.com  
-- 🔗 [LinkedIn](http://www.linkedin.com/in/sushanth-thakur) • 🔗 [GitHub (demon-codly)](https://github.com/demon-codly)
+---
+
+## 🔗 Connect With Me
+
+<!-- Professional Contact Links -->
+<div align="center">
+  <a href="https://linkedin.com/in/sushanth-thakur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sushanth.athakur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="https://github.com/demon-codly" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -40,73 +60,40 @@
 
 ---
 
-## 🧰 Tech & Tools (animated progress bars)
-I used the skillset and tools from my resume to make animated progress bars — update values as you like.
+## 🧰 Tech & Tools 
+<div align="center">
 
-**Languages & Core**
-- C#  
-  <img src="https://progress-bar.dev/90/?title=C%23&striped=true&width=360" alt="C# 90%">
-- Java  
-  <img src="https://progress-bar.dev/75/?title=Java&striped=true&width=360" alt="Java 75%">
-- Python  
-  <img src="https://progress-bar.dev/70/?title=Python&striped=true&width=360" alt="Python 70%">
-- JavaScript / Node.js  
-  <img src="https://progress-bar.dev/75/?title=JavaScript&striped=true&width=360" alt="JS 75%">
-
-**Frameworks & Platforms**
-- .NET / ASP.NET  
-  <img src="https://progress-bar.dev/85/?title=.NET/ASP.NET&striped=true&width=360" alt=".NET 85%">
-- React / Express  
-  <img src="https://progress-bar.dev/75/?title=React/Express&striped=true&width=360" alt="React 75%">
-- WPF / .NET MAUI  
-  <img src="https://progress-bar.dev/80/?title=WPF+.NET+MAUI&striped=true&width=360" alt="WPF/.NET MAUI 80%">
-
----
-
-## 🧩 Projects (from my resume)
-- **TaskFlow** — Desktop Task Management (C#, WPF, MVVM)  
-  Architected a WPF desktop app using MVVM with advanced data-binding, custom controls, and local persistence for tasks, priorities, and categories.
-
-- **CheckYourStock** — Full-Stack Stock Analysis Web App  
-  Full-stack web app with stock data analysis, interactive charts, and API-backed services (React + Node/.NET backend).
-
-- **TravelTracker** — Cross-Platform Mobile Expense Tracker (.NET MAUI)  
-  Cross-platform app (Android + iOS), ASP.NET Core backend, receipt management, expense categorization and sync across devices.
-
----
-
-## 📜 Publication
- - Paper on Artificial General Intelligence (AGI) — *ICRECS-2024* (AGI principles, applications, challenges & ethics).
-
----
-
-## 🏆 Experience (animated timeline)
-- **Web Development Intern — Cognifyz Technologies** (Sep 2024)  
-  Built dynamic React components, integrated secure REST APIs with Node.js and Express, resolved defects — improved engagement & stability.
-
-- **Software Development Intern — Cognifyz Technologies** (Oct 2024)  
-  Worked across .NET, WPF, ASP.NET Core, Entity Framework and helped deliver cross-platform features with .NET MAUI.
-
----
-
-## 🎓 Education
-- **B.Tech (AI & Data Science)** — RMK College of Engineering and Technology (2021–2025)  
-
----
-
-## 📈 More fun / Animated widgets
-<p align="center">
-  <!-- Small animated badges and icons to spice it up -->
-  <img src="https://img.shields.io/badge/AI-ICRECS%202024-orange?logo=artificial-intelligence" alt="AGI Paper" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cert-Infosys%20Springboard-blue?logo=infosys" alt="Infosys Cert" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Skillrack-1000%2B-success?logo=codewars" alt="1000+ problems" />
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,sql" />
 </p>
 
+### 🚀 Frameworks & Libraries  
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,nextjs" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,git,github,vscode,visualstudio" />
+</p>
+
+### 📊 Data & BI Tools
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black"/>
+</p>
+
+</div>
 ---
 
-## ✨ Footer — animated
+## ✨ More Fun
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=000000&center=true&vCenter=true&width=700&height=30&lines=Let's+build+something+great+together+%F0%9F%9A%80;Open+to+opportunities+%7C+Reach+out+via+email" alt="footer typing"/>
   <br/>
