@@ -1,82 +1,65 @@
+<!-- Profile Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,9,14&height=250&section=header&text=Sushanth%20Kumar%20Thakur&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sushan%20(demon-codly)&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=51" width="100%"/>
+<!-- Typing Animation -->
+<div align="center">
+  <h3><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=I+build+scalable+software+solutions...;From+concept+to+cloud...;Always+learning,+always+coding." alt="Typing SVG" /></h3>
+</div>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-badge"/>
-</a>
-<a href="https://your-portfolio-website.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio-badge"/>
-</a>
-
+<!-- Social & Contact Links -->
+<div align="center">
+  <a href="https://linkedin.com/in/sushanth-thakur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sushanth.athakur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="#" target="_blank"> <!-- Replace # with your portfolio link when ready -->
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate and results-driven Full-Stack Developer with a deep expertise in the C#/.NET ecosystem and a keen interest in modern cloud and DevOps practices. I specialize in crafting robust, scalable applications and enjoy tackling complex challenges to deliver elegant and efficient software solutions.
-
--   🔭 I’m currently focused on deepening my skills in **CI/CD pipelines** and **cloud-native architecture** on **Microsoft Azure**.
--   🌱 I’m always learning, currently exploring **Infrastructure as Code (IaC)** with **Terraform**.
--   💬 Ask me anything about **.NET, C#, React, or Agile methodologies**.
--   📫 Let's connect and build something amazing together!
+### 🚀 About Me
+A passionate Full-Stack Developer and certified .NET professional with a proven track record of designing, developing, and deploying high-quality, scalable applications. My expertise spans the entire software development lifecycle, from initial concept and architecture to cloud deployment and CI/CD automation. I thrive on solving complex problems and am dedicated to writing clean, efficient, and maintainable code.
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ My Tech Arsenal (with Animations!)
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h4>Languages & Databases</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,sql,mongodb,mysql" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,nextjs" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>Cloud, DevOps & Tools</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,visualstudio,jenkins" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,sql" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,nextjs,wpf,maui" /><br>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,vscode,visualstudio,jenkins,terraform" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</div>
 
 ---
 
-### 📊 My GitHub Analytics
+### 📊 My GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=demon-codly&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-codly&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=demon-codly&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-codly&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=demon-codly&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=demon-codly&theme=merko&hide_border=true" alt="Streak Stats" width="60%"/>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=demon-codly&theme=monokai&no-frame=true&column=-1&row=1&margin-w=20&margin-h=20" width="100%"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=demon-codly&theme=monokai&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 My Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demon-codly&theme=radical&no-frame=true&column=-1&row=1&margin-w=20&margin-h=20" width="100%"/>
+  <img src="https://raw.githubusercontent.com/demon-codly/demon-codly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
-
-<div align="center">
-  <h3>Thanks for visiting! Let's connect and create something incredible. 🚀</h3>
-</div>
-
-<img src="https://raw.githubusercontent.com/demon-codly/demon-codly/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
