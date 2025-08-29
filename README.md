@@ -10,7 +10,7 @@
 
 <!-- Social & Contact Links -->
 <div align="center">
-  <a href="https://linkedin.com/in/sushanth-thakur/" target="_blank">
+  <a href="https://linkedin.com/in/sushanth-thakur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sushanth.athakur@gmail.com">
@@ -28,7 +28,7 @@ A passionate Full-Stack Developer and certified .NET professional with a proven 
 
 ---
 
-### 🛠️ My Tech Arsenal (with Animations!)
+### 🛠️ My Tech Arsenal 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,sql" /><br>
