@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Highlights (animated)
+## 🚀 Highlights 
 <p align="center">
   <!-- GitHub readme cards / animated svgs -->
   <img src="https://github-readme-stats.vercel.app/api?username=demon-codly&show_icons=true&count_private=true&theme=radical" alt="Sushanth's GitHub stats" />
@@ -64,8 +64,6 @@ I used the skillset and tools from my resume to make animated progress bars — 
 ---
 
 ## 🧩 Projects (from my resume)
-> Short, animated cards + descriptions — link your repos below if available
-
 - **TaskFlow** — Desktop Task Management (C#, WPF, MVVM)  
   Architected a WPF desktop app using MVVM with advanced data-binding, custom controls, and local persistence for tasks, priorities, and categories.
 
@@ -75,7 +73,10 @@ I used the skillset and tools from my resume to make animated progress bars — 
 - **TravelTracker** — Cross-Platform Mobile Expense Tracker (.NET MAUI)  
   Cross-platform app (Android + iOS), ASP.NET Core backend, receipt management, expense categorization and sync across devices.
 
-> 📜 Publication: Paper on Artificial General Intelligence (AGI) — *ICRECS-2024* (AGI principles, applications, challenges & ethics).
+---
+
+## 📜 Publication
+ - Paper on Artificial General Intelligence (AGI) — *ICRECS-2024* (AGI principles, applications, challenges & ethics).
 
 ---
 
@@ -114,11 +115,4 @@ I used the skillset and tools from my resume to make animated progress bars — 
 
 ---
 
-### 🔧 Quick notes & how to customize
-- Replace `demon-codly` in the stats/activity image URLs with your GitHub username if it's different.
-- If you want repo links for projects, replace plain project names with `[RepoName](https://github.com/your/repo)` links.
-- To tweak skill percentages, change the numbers in the `progress-bar.dev` image URLs.
-- If you prefer different themes for the GitHub cards, check `github-readme-stats` query params and swap `theme` to `dark`, `radical`, `dracula`, etc.
-
----
 
