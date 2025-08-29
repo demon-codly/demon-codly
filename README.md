@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUSHANTH%20KUMAR%20THAKUR&fontSize=70&color=gradient&customColorList=0,2,2,5,30&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18" />
+<!-- Fixed 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUSHANTH%20KUMAR%20THAKUR&fontSize=50&color=gradient&customColorList=0,2,2,5,30&stroke=000000&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=16&fontColor=000000&descColor=1a1a1a" />
 
 </div>
 
-<!-- Animated Typing Effect -->
+<!-- Fixed Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=1a1a1a&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
 </div>
+
 
 <!-- Professional Contact Links -->
 <div align="center">
