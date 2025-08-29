@@ -5,10 +5,11 @@
 
 </div>
 
-<!-- Fixed Animated Typing Effect -->
+<!-- Fixed Animated Typing Effect with more height -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=1a1a1a&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=1a1a1a&center=true&vCenter=true&multiline=true&width=800&height=140&lines=🚀+Building+scalable+enterprise+solutions;☁️+Architecting+cloud-native+applications;⚡+Optimizing+performance+%26+user+experience;🔧+Automating+everything+with+DevOps" alt="Typing SVG" />
 </div>
+
 
 
 <!-- Professional Contact Links -->
