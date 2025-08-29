@@ -34,33 +34,51 @@
 <tr>
 <td width="60%" valign="top">
 
-### 💼 Professional Summary
+---
 
-**Senior Full-Stack Developer** with **5+ years** of experience architecting and developing enterprise-grade applications. Specialized in **C#/.NET ecosystem**, **cloud technologies**, and **DevOps practices**. 
+### 👨‍💻 About Me
+I am a results-driven **Full-Stack Developer** with deep expertise in the **C#/.NET ecosystem** and a passion for building robust, scalable applications. My experience spans the entire software development lifecycle, from architecting solutions to deploying on **Microsoft Azure**. I thrive in **Agile** environments and leverage modern **DevOps** practices for seamless delivery.
 
-**Core Expertise:**
-- 🏗️ **Architecture Design:** Microservices, Domain-Driven Design, CQRS
-- ☁️ **Cloud Platforms:** Microsoft Azure, AWS, Container Orchestration  
-- 🔄 **DevOps:** CI/CD Pipelines, Infrastructure as Code, Monitoring
-- 📊 **Data Engineering:** ETL Pipelines, Business Intelligence, Analytics
-- 🎯 **Leadership:** Technical mentoring, code reviews, project management
+---
 
-</td>
-<td width="40%" valign="top">
+<table width="100%" cellpadding="15">
+  <tr>
+    <!-- Professional Summary Column -->
+    <td valign="top" width="50%">
+      <div align="center" markdown="1">
+        <img src="https://img.shields.io/badge/Professional–Summary-512BD4?style=for-the-badge&logo=readthedocs&logoColor=white&animation=twinkle" alt="Summary" />
+      </div>
+      **Full-Stack Developer** with **2 years** of experience designing and delivering enterprise-grade applications.  
+      Specialized in **C#/.NET**, **cloud platforms**, and **DevOps**.
 
-### 🎯 Quick Stats
-const sushanth = {
-location: "India 🇮🇳",
-experience: "5+ years",
-focus: ["Enterprise Solutions", "Cloud Architecture"],
-currentRole: "Senior Full-Stack Developer",
-certifications: ["Azure Solutions Architect"],
-languages: ["C#", "JavaScript", "Python", "Java"],
-databases: ["SQL Server", "MongoDB", "Redis"],
-cloud: ["Azure", "Docker", "Kubernetes"]
-};
-</td>
-</tr>
+      **Core Expertise:**
+      - 🏗️ **Architecture Design:** Microservices, DDD, CQRS  
+      - ☁️ **Cloud Platforms:** Azure, AWS, Containers  
+      - 🔄 **DevOps:** CI/CD, IaC, Monitoring  
+      - 📊 **Data Engineering:** ETL, BI, Analytics  
+      - 🎯 **Leadership:** Mentoring, Code Reviews, Agile  
+
+    </td>
+
+    <!-- Quick Stats Column -->
+    <td valign="top" width="50%">
+      <div align="center" markdown="1">
+        <img src="https://img.shields.io/badge/Quick–Stats-00D9FF?style=for-the-badge&logo=graph&logoColor=white&animation=pulse" alt="Stats" />
+      </div>
+      ```
+      const sushanth = {
+        location: "India 🇮🇳",
+        experience: "2 years",
+        focus: ["Enterprise Solutions", "Cloud Architecture"],
+        currentRole: "Senior Full-Stack Developer",
+        certifications: ["Azure Solutions Architect"],
+        languages: ["C#", "JavaScript", "Python", "Java"],
+        databases: ["SQL Server", "MongoDB", "Redis"],
+        cloud: ["Azure", "Docker", "Kubernetes"]
+      };
+      ```
+    </td>
+  </tr>
 </table>
 
 ---
